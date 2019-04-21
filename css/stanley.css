@@ -11,7 +11,7 @@ nav {
 .card {
   background-image: url(../img/blog-post-bgimg.png);
   background-repeat: no-repeat;
-  background-size: 48px 48px;
-  background-position: right 10px top 10px; }
+  background-position: right 0 top 0;
+  border: none; }
 
 /*# sourceMappingURL=stanley.css.map */
