@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,GAAI;EACF,gBAAgB,EAAE,OAAO",
+"sources": ["../sass/_nav.scss"],
+"names": [],
+"file": "stanley.css"
+}
