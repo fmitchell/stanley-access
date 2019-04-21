@@ -8,7 +8,7 @@ nav {
 .search-bar {
   background-color: #cecece; }
 
-.card {
+.blog-card {
   background-image: url(../img/blog-post-bgimg.png);
   background-repeat: no-repeat;
   background-position: right 0 top 0;
