@@ -1,7 +1,7 @@
 {
 "version": 3,
-"mappings": "AAAA,IAAK;EACH,gBAAgB,EAAE,OAAO;;ACD3B,GAAI;EACF,gBAAgB,EAAE,OAAO;EACzB,MAAM,EAAE,KAAK;;ACFf,WAAY;EACV,gBAAgB,EAAE,OAAO",
-"sources": ["../sass/_base.scss","../sass/_nav.scss","../sass/_search-bar.scss"],
+"mappings": "AAAA,IAAK;EACH,gBAAgB,EAAE,OAAO;;ACD3B,GAAI;EACF,gBAAgB,EAAE,OAAO;EACzB,MAAM,EAAE,KAAK;;ACFf,WAAY;EACV,gBAAgB,EAAE,OAAO;;ACD3B,KAAM;EACJ,gBAAgB,EAAE,+BAA+B;EACjD,iBAAiB,EAAE,SAAS;EAC5B,eAAe,EAAE,SAAS;EAC1B,mBAAmB,EAAE,mBAAmB",
+"sources": ["../sass/_base.scss","../sass/_nav.scss","../sass/_search-bar.scss","../sass/_blog-card.scss"],
 "names": [],
 "file": "stanley.css"
 }
