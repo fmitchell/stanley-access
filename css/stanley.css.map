@@ -1,7 +1,7 @@
 {
 "version": 3,
-"mappings": "AAAA,GAAI;EACF,gBAAgB,EAAE,OAAO;EACzB,MAAM,EAAE,KAAK",
-"sources": ["../sass/_nav.scss"],
+"mappings": "AAAA,GAAI;EACF,gBAAgB,EAAE,OAAO;EACzB,MAAM,EAAE,KAAK;;ACFf,WAAY;EACV,gBAAgB,EAAE,OAAO",
+"sources": ["../sass/_nav.scss","../sass/_search-bar.scss"],
 "names": [],
 "file": "stanley.css"
 }
